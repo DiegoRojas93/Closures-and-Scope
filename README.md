@@ -34,3 +34,7 @@ Se establece como aquel entorno en el que esta adentro de llaves {}. Esto implic
 **Ambito léxico: ** se refiere a que una funcion puede acceder a una funcion o variable fuera de ella. Cada nivel interno puede acceder a sus niveles externos hasta poder alcanzarlas.
 
 **Datos privados:** Java script no fomenta el uso de datos privados pero por medio de Closures podemos acceder a los datos de una variable usando metodos para acceder a ellos.
+
+## Hoistig
+
+El hoisting es el levantamiento de las declaracion, es decir que El hosting es el trabajo que hace el interpreter del engine de javaScript (motor de javaScript) que esta por defecto en nuestros navegadores, cuyo propósito es levantar todas nuestras funciones  y variables inicializadas al principio de nuestro código, todo con el fin de poderlo optimizar.
