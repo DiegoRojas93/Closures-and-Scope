@@ -28,3 +28,6 @@ Cada vez que declara una variable en una función, la variable solo es visible d
 ### El Block Scope
 
 Se establece como aquel entorno en el que esta adentro de llaves {}. Esto implica que una sentencia control como lo es un for, while un do while, o funciones condicionales como lo son if, if else o un switch serian bloques.
+
+
+**Un Closure:** se define como la combinacion de una funcion y el ambito lexico en la cual ha sido declarada dicha funcion. Es decir que un Closure recuerda el ambito en el que ha sido creado.
